@@ -12,6 +12,6 @@ public class SimpleSatellite : MonoBehaviour
 
 	void Update()
 	{
-		transform.RotateAround()
+		// transform.RotateAround()
 	}
 }
